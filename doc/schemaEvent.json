@@ -1,0 +1,12 @@
+{
+    "bsonType": "object",
+    "required": ["title", "category", "eventDate"],
+    "properties": {
+        "title": { "bsonType": "string" },
+        "category": { "bsonType": "string" },
+        "price": { "bsonType": "double" },
+        "eventDate": { "bsonType": "date" },
+        "location": { "bsonType": "string" },
+        "available": { "bsonType": "bool" }
+    }
+}

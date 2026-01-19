@@ -1,0 +1,275 @@
+[{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969d9a"
+  },
+  "title": "Concert Rock",
+  "category": "music",
+  "price": 25,
+  "eventDate": "2025-01-10T18:00:00Z",
+  "location": "Barcelona",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969d9b"
+  },
+  "title": "Jazz Night",
+  "category": "music",
+  "price": 20,
+  "eventDate": "2025-01-12T19:00:00Z",
+  "location": "Girona",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969d9c"
+  },
+  "title": "Teatre Clàssic",
+  "category": "theatre",
+  "price": 30,
+  "eventDate": "2025-01-15T20:00:00Z",
+  "location": "Tarragona",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969d9d"
+  },
+  "title": "Stand-up Comedy",
+  "category": "comedy",
+  "price": 18,
+  "eventDate": "2025-01-18T21:00:00Z",
+  "location": "Lleida",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969d9e"
+  },
+  "title": "Festival Indie",
+  "category": "music",
+  "price": 40,
+  "eventDate": "2025-01-20T16:00:00Z",
+  "location": "Barcelona",
+  "available": false
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969d9f"
+  },
+  "title": "Opera",
+  "category": "music",
+  "price": 50,
+  "eventDate": "2025-01-22T20:00:00Z",
+  "location": "Madrid",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da0"
+  },
+  "title": "Circ",
+  "category": "family",
+  "price": 15,
+  "eventDate": "2025-01-25T12:00:00Z",
+  "location": "Valencia",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da1"
+  },
+  "title": "Magic Show",
+  "category": "family",
+  "price": 17,
+  "eventDate": "2025-01-27T17:00:00Z",
+  "location": "Barcelona",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da2"
+  },
+  "title": "DJ Session",
+  "category": "music",
+  "price": 22,
+  "eventDate": "2025-01-29T23:00:00Z",
+  "location": "Ibiza",
+  "available": false
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da3"
+  },
+  "title": "Cinema Festival",
+  "category": "cinema",
+  "price": 12,
+  "eventDate": "2025-02-01T18:00:00Z",
+  "location": "Sitges",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da4"
+  },
+  "title": "Classic Concert",
+  "category": "music",
+  "price": 35,
+  "eventDate": "2025-02-03T19:00:00Z",
+  "location": "Barcelona",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da5"
+  },
+  "title": "Poetry Reading",
+  "category": "culture",
+  "price": 10,
+  "eventDate": "2025-02-05T18:30:00Z",
+  "location": "Vic",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da6"
+  },
+  "title": "Tech Talk",
+  "category": "technology",
+  "price": 0,
+  "eventDate": "2025-02-07T17:00:00Z",
+  "location": "Online",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da7"
+  },
+  "title": "Startup Meetup",
+  "category": "business",
+  "price": 5,
+  "eventDate": "2025-02-09T18:00:00Z",
+  "location": "Barcelona",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da8"
+  },
+  "title": "Art Expo",
+  "category": "art",
+  "price": 8,
+  "eventDate": "2025-02-11T11:00:00Z",
+  "location": "Figueres",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969da9"
+  },
+  "title": "Photography Workshop",
+  "category": "art",
+  "price": 45,
+  "eventDate": "2025-02-13T10:00:00Z",
+  "location": "Girona",
+  "available": false
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969daa"
+  },
+  "title": "Yoga Retreat",
+  "category": "health",
+  "price": 60,
+  "eventDate": "2025-02-15T09:00:00Z",
+  "location": "Pirineus",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969dab"
+  },
+  "title": "Cooking Class",
+  "category": "food",
+  "price": 30,
+  "eventDate": "2025-02-17T17:00:00Z",
+  "location": "Reus",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969dac"
+  },
+  "title": "Wine Tasting",
+  "category": "food",
+  "price": 25,
+  "eventDate": "2025-02-19T19:00:00Z",
+  "location": "Priorat",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969dad"
+  },
+  "title": "Book Fair",
+  "category": "culture",
+  "price": 0,
+  "eventDate": "2025-02-21T10:00:00Z",
+  "location": "Barcelona",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969dae"
+  },
+  "title": "Gaming Tournament",
+  "category": "gaming",
+  "price": 15,
+  "eventDate": "2025-02-23T14:00:00Z",
+  "location": "Online",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969daf"
+  },
+  "title": "Chess Open",
+  "category": "gaming",
+  "price": 10,
+  "eventDate": "2025-02-25T09:00:00Z",
+  "location": "Sabadell",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969db0"
+  },
+  "title": "Marathon",
+  "category": "sports",
+  "price": 50,
+  "eventDate": "2025-02-27T07:00:00Z",
+  "location": "Barcelona",
+  "available": false
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969db1"
+  },
+  "title": "Climbing Session",
+  "category": "sports",
+  "price": 20,
+  "eventDate": "2025-03-01T10:00:00Z",
+  "location": "Montserrat",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "695fd02e4390f743c1969db2"
+  },
+  "title": "Surf Camp",
+  "category": "sports",
+  "price": 80,
+  "eventDate": "2025-03-03T08:00:00Z",
+  "location": "Costa Brava",
+  "available": true
+}]
